@@ -1,7 +1,7 @@
 import time
 import requests
 
-BOT_TOKEN = "8570005871:AAEQTrjuSrBGQCsJW81oqKHSvfjgez03tXE"  
+BOT_TOKEN = "YOUR_TOKEN_HERE"  
 CHANNEL_ID = "@priceton2"
 
 def get_ton_price_usd():
