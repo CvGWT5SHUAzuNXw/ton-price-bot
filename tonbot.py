@@ -2,7 +2,7 @@ import time
 import requests
 
 BOT_TOKEN = "8570005871:AAEQTrjuSrBGQCsJW81oqKHSvfjgez03tXE"  
-CHANNEL_ID = "@priceCrypto12"
+CHANNEL_ID = "@priceton2"
 
 def get_ton_price_usd():
     url = "https://api.coingecko.com/api/v3/simple/price?ids=the-open-network&vs_currencies=usd"
